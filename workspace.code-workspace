@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\Documents\\GitHub\\goit-markup-hw-01"
+    },
+    {
+      "name": "goit-markup-hw-01",
+      "path": "..\\..\\Documents\\GitHub\\goit-markup-hw-01\\goit-markup-hw-01"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01"
+  }
+}
